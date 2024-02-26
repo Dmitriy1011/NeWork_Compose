@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyApp_Compose</string>
+    <string name="events">Events</string>
+    <string name="users">Users</string>
+    <string name="editPost">Редактировать</string>
+    <string name="removePost">Удалить</string>
+    <string name="create_and_edit_post">Create and edit post</string>
+    <string name="posts">Posts</string>
+    <string name="enter">Войти</string>
+    <string name="signup">SignUp</string>
+    <string name="not_registered_yet_register">Not registered yet? Register</string>
+</resources>
